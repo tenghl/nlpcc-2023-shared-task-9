@@ -38,7 +38,7 @@ We provide two files, **train.jsonl** and **dev.jsonl**, each line in the file r
 ```json
 {
     "query": "你喜欢听什么歌",
-    "replys": [
+    "replies": [
         {
             "reply": "你喜欢什么，小爱就喜欢什么",
             "dislike": 3,
